@@ -1,13 +1,13 @@
 # 📚 Smart Study Planner CLI
 
-A feature-rich, interactive command-line study planner application written in Python using **only standard libraries**. It helps you prioritize subjects with nearest deadlines, estimate preparation workload using difficulty-weighted priorities, track study streaks, and stay organized leading up to exams.
+A feature-rich, interactive command-line study planner application written in Python using **only standard libraries**. It helps you prioritize subjects with nearest deadlines, estimate preparation workload using difficulty - weighted priorities, track study streaks, and stay organized leading up to exams.
 
 ---
 
 ## 🚀 Key Features
 
-- **Topic & Subject Management**: Group study materials by subject. Add topics with custom difficulty levels.
-- **Deadline-Driven Priority Scheduling**: Automatically generates a daily study schedule based on days remaining until exams and workload. Nearest deadlines get absolute priority!
+- **Topic & Subject Management**: Group study materials by subject.  Add topics with custom difficulty levels.
+- **Deadline-Driven Priority Scheduling**: Automatically generates a daily study schedule based on days remaining until exams and workload.  Nearest deadlines get absolute priority!
 - **Workload Estimation via Weighted Priorities**:
   - 🟢 **Easy**: 1.0 hour study effort estimation
   - 🟡 **Medium**: 2.0 hours study effort estimation
